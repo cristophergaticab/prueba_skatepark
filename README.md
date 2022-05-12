@@ -18,15 +18,15 @@ Las tecnologías y herramientas que deberás ocupar son las siguientes:
 
 
 Indicaciones:
-● El sistema debe permitir registrar nuevos participantes.
-● Se debe crear una vista para que los participantes puedan iniciar sesión con su
+- El sistema debe permitir registrar nuevos participantes.
+- Se debe crear una vista para que los participantes puedan iniciar sesión con su
 correo y contraseña.
-● Luego de iniciar la sesión, los participantes deberán poder modificar sus datos,
+- Luego de iniciar la sesión, los participantes deberán poder modificar sus datos,
 exceptuando el correo electrónico y su foto. Esta vista debe estar protegida con JWT
 y los datos que se utilicen en la plantilla deben ser extraídos del token.
-● La vista correspondiente a la ruta raíz debe mostrar todos los participantes
+-La vista correspondiente a la ruta raíz debe mostrar todos los participantes
 registrados y su estado de revisión.
-● La vista del administrador debe mostrar los participantes registrados y permitir
+- La vista del administrador debe mostrar los participantes registrados y permitir
 aprobarlos para cambiar su estado.
 
 Requerimientos
